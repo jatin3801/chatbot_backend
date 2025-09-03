@@ -1,0 +1,23 @@
+{
+  "name": "docs-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.2.28",
+    "@langchain/openai": "^0.2.7",
+    "d3-dsv": "^2.0.0",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.2.10",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.53.0",
+    "pg": "^8.12.0",
+    "pgvector": "^0.2.0"
+  }
+}
